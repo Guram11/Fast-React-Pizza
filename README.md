@@ -2,3 +2,4 @@
 ![Screenshot (19)](https://github.com/Guram11/Fast-React-Pizza/assets/121447764/f8b316c2-1821-48a2-bfbb-63f41a43622a)
 ![Screenshot (20)](https://github.com/Guram11/Fast-React-Pizza/assets/121447764/499efc1b-ffb3-4c13-8d03-409c203ee6dd)
 ![Screenshot (21)](https://github.com/Guram11/Fast-React-Pizza/assets/121447764/f83cbc85-24c0-4cd2-b525-6d2c26eab01a)
+![Screenshot (22)](https://github.com/Guram11/Fast-React-Pizza/assets/121447764/d0178369-8bca-4466-9206-52f48353175c)
